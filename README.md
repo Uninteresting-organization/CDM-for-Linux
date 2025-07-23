@@ -23,7 +23,7 @@ Behind the scenes, the tool splits the file into parts based on the selected thr
 To run the application:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 # 📥 CDM(For Linux) - 自訂式下載管理器Linux版（Custom Download Manager For Linux）
@@ -51,4 +51,4 @@ CDM 將檔案依執行緒數量切割為多個區段，並以多執行緒方式�
 執行主程式：
 
 ```bash
-python main.py
+python3 main.py
