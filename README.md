@@ -5,7 +5,7 @@ It features a user-friendly graphical interface and supports multithreaded downl
 
 ## 🔧 Features
 
-- 🖼️ GUI built with PyQt5
+- 🖼️ GUI built with Electron
 - 📡 Supports multiple concurrent threads (up to 64)
 - 🗂️ Save path selector
 - 📊 Download progress indicator
@@ -33,7 +33,7 @@ python3 main.py
 
 ## 🔧 主要功能
 
-- 🖼️ 使用 PyQt5 建立的圖形化介面
+- 🖼️ 使用 Electron 建立的圖形化介面
 - 📡 支援最多 64 條執行緒並行下載
 - 🗂️ 自訂儲存路徑
 - 📊 顯示下載進度
